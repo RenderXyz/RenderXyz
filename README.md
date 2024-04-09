@@ -1,5 +1,6 @@
-### Hi , I'm RenderXyz 👋 
+# Hi , I'm RenderXyz 👋 
 ## About me
+- 🌱 I’m currently learning java
 - 📫 I believe hard work will make me better
 
 <!--
